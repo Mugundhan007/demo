@@ -1,0 +1,12 @@
+git commands
+
+git --version ==>  check version
+git init ==> initializing .get hidden folder in the directory
+gi config --global user.name "mugu" ==> creating username
+git config --global user.email "Mugundhanvijay007@gmail.com" ==> creating mail for repository
+mkdir ==> make directory
+git add ==> add to repo
+git status ==> check status
+git diff ==> difference betweeen modified
+new stages added 
+some change
