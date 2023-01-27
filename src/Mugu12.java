@@ -13,6 +13,8 @@ public class arthi {
     public int div(int a ,int b){
         return a/b;
     }
+
+    public int abcd (int a, int b)
     public static void main(String[] args) {
         arthi arthicmethic = new arthi();
                 System.out.println("add-" +arthicmethic.add(2,1));
