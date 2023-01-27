@@ -21,3 +21,5 @@ public class arthi {
                 System.out.println("div-" +arthicmethic.div(2,1));
     }
 }
+
+
